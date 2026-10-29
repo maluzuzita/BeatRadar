@@ -1,0 +1,2 @@
+"""BeatRadar Core Application"""
+
